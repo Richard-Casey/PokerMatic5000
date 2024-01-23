@@ -1,0 +1,7 @@
+C:\Users\riche\OneDrive\Desktop\Richards Folder\Visual Studio Only Projects\PM5000\PM5000\bin\Debug\PM5000.exe.config
+C:\Users\riche\OneDrive\Desktop\Richards Folder\Visual Studio Only Projects\PM5000\PM5000\bin\Debug\PM5000.exe
+C:\Users\riche\OneDrive\Desktop\Richards Folder\Visual Studio Only Projects\PM5000\PM5000\bin\Debug\PM5000.pdb
+C:\Users\riche\OneDrive\Desktop\Richards Folder\Visual Studio Only Projects\PM5000\PM5000\obj\Debug\PM5000.csproj.AssemblyReference.cache
+C:\Users\riche\OneDrive\Desktop\Richards Folder\Visual Studio Only Projects\PM5000\PM5000\obj\Debug\PM5000.csproj.CoreCompileInputs.cache
+C:\Users\riche\OneDrive\Desktop\Richards Folder\Visual Studio Only Projects\PM5000\PM5000\obj\Debug\PM5000.exe
+C:\Users\riche\OneDrive\Desktop\Richards Folder\Visual Studio Only Projects\PM5000\PM5000\obj\Debug\PM5000.pdb
