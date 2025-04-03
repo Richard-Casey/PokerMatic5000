@@ -1,7 +1,7 @@
 
 # PokerMatic5000 – Poker Hand Evaluation Console App
 
-**PokerMatic5000** is a C# console application created as part of a **technical interview test for Switch Studios**, a company specializing in gambling machine development. The goal was to implement a poker hand evaluator that accepts user input (a hand of five cards) and determines the hand ranking (e.g., Pair, Straight, Flush).
+**PokerMatic5000** is a C# console application created as part of a **technical interview test for Switch Studios**, a company specialising in gambling machine development. The goal was to implement a poker hand evaluator that accepts user input (a hand of five cards) and determines the hand ranking (e.g., Pair, Straight, Flush).
 
 The code was written under time-limited conditions, and I intentionally submitted it **as-is**, without extending development past the allotted time. My aim was to reflect my **true ability under test conditions**. Despite not securing the position, I was told by the lead developer that the approach and structure of the solution was *exactly how they would have done it*.
 
